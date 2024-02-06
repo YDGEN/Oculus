@@ -98,6 +98,7 @@ body{
   padding-top: 16%;
   font-size: 96px;
   margin-bottom: 10px;
+  font-weight: 400;
 }
 
 .subtitle{
@@ -128,9 +129,14 @@ body{
 .buy-btn__text{
   color: #F6F4F5;
   padding: 20px 110px;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 .buy-btn__price{
   background-color: #F6F4F5;
   padding: 20px 105px;
+  font-weight: 700;
+  font-size: 16px;
+  color: grey;
 }
